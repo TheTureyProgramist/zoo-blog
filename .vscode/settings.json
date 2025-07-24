@@ -1,0 +1,7 @@
+{
+    "editor.accessibilityPageSize": 700,
+    "editor.accessibilitySupport": "auto",
+    "editor.fontSize": 11,
+    "prettier.vueIndentScriptAndStyle": false,
+    "simpleBrowser.focusLockIndicator.enabled": false
+}

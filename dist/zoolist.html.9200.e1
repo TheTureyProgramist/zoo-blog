@@ -1,0 +1,19 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/zoo-blog.2cdaf7bc.css">
+    <link rel="stylesheet" href="/zoolist.0e249db1.css">
+</head>
+<body>
+    <div class="nav-links">
+        <a href="/index.html" class="link">Головна</a>
+        <a href="/search.html" class="link-1">Пошук</a>
+    </div>
+    <div class="container" style="flex-wrap: wrap; display: flex">
+    </div>
+    <button type="button" class="btn">Завантажити ще</button>
+    <script type="module" src="/zoo-blog.31b563d9.js"></script>
+    <script type="module" src="/zoolist.b1b6e3a9.js"></script>
+
+</body></html>
